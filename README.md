@@ -62,8 +62,9 @@ crediting me with any of it; a few carry a handful of my commits, most carry non
 The remaining 28 are not GitHub-flagged, but four of them still continue somebody else's
 project and say so in their own READMEs:
 
-- **decomp.anything** builds on [decomp.wtf](https://github.com/i12bp8/decomp.wtf) by Sam
-  Wolfs (MIT, upstream discontinued). I continued and extended it.
+- **decomp.anything** builds on [decomp.wtf](https://github.com/i12bp8/decomp.wtf) by
+  [i12bp8](https://github.com/i12bp8) (MIT), which its owner discontinued and archived on
+  2026-10-15. I continued and extended it.
 - **ninfer-ext** extends NInfer, designed and developed by
   [Neroued](https://github.com/Neroued), who also owns the artifact format.
 - **OSCAR-llamacpp** and **llama-cpp-turboquant-hybrid** are llama.cpp, upstream by
